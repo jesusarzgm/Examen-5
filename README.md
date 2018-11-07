@@ -162,3 +162,11 @@ La aplicación debe de desplegar el resultado igual a 314.61
 
   
   8. Los campos en la forma solo deben de aceptar números reales positivos, enteros positivos.
+  
+  
+  ---
+  ## **Arquitectura **
+  
+  **Diagrama de secuencia 
+  
+  ![copia de diagrama en blanco](https://user-images.githubusercontent.com/42191570/48152348-3efd8880-e289-11e8-80a0-8eed8f37bbb5.png)
